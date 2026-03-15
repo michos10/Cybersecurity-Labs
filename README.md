@@ -25,6 +25,7 @@ network scanning to identify active services on a target machine.
 
 #### Results:
 * VPN Connection: Successfully initialized the tunnel.
+
 ![VPN-Connection](Lab2.THM-VPN-Setup1.png)
 ![tun0-Confirmation](Lab2.THM-VPN-Setup2.png)
 
@@ -32,6 +33,7 @@ network scanning to identify active services on a target machine.
     * Port 22 (SSH): Remote administration.
     * Port 80 (HTTP): Web server access.
     * Port 5901 (VNC): Remote desktop protocol.
+
 ![Nmap-Scan](Lab2.nmap-target-scan.png)
 
 ---
