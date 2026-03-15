@@ -28,7 +28,7 @@ network scanning to identify active services on a target machine.
 ![VPN-Connection](Lab2.THM-VPN-Setup1.png)
 ![tun0-Confirmation](Lab2.THM-VPN-Setup2.png)
 
--Target Scan: Discovered three open ports on the target machine:
+* Target Scan: Discovered three open ports on the target machine:
     * Port 22 (SSH): Remote administration.
     * Port 80 (HTTP): Web server access.
     * Port 5901 (VNC): Remote desktop protocol.
