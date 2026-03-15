@@ -4,9 +4,9 @@
 Setup a penetration testing environment using Kali
 
 ### Tasks Performed:
--Installed Kali Linux on VirtualBox.
--Verified network connectivity using the 'ping' command.
--Documented the setup process on GitHub. 
+* Installed Kali Linux on VirtualBox.
+* Verified network connectivity using the 'ping' command.
+* Documented the setup process on GitHub. 
 
 ![Connectivity-test](Lab1.Connectivity-test.png)
 
