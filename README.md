@@ -19,12 +19,12 @@ Establishing secure connection to a remote lab environment and perform
 network scanning to identify active services on a target machine.
 
 ### Tasks Performed:
--VPN Configuration: Connected to the TryHackMe network using OpenVPN via the Kali Linux terminal.
--Interface Verification: Confirm the connection by identifying the tun0 network interface.
--Network Scanning: Used Nmap to perform a service discovery scan on a remote target.
+* VPN Configuration: Connected to the TryHackMe network using OpenVPN via the Kali Linux terminal.
+* Interface Verification: Confirm the connection by identifying the tun0 network interface.
+* Network Scanning: Used Nmap to perform a service discovery scan on a remote target.
 
 #### Results:
--VPN Connection: Successfully initialized the tunnel.
+* VPN Connection: Successfully initialized the tunnel.
 ![VPN-Connection](Lab2.THM-VPN-Setup1.png)
 ![tun0-Confirmation](Lab2.THM-VPN-Setup2.png)
 
